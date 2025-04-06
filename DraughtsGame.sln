@@ -5,7 +5,7 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DraughtsGame", "DraughtsGame.csproj", "{887646D5-EE31-446A-A070-F10FB05EAD48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draughts", "..\Draughts\Draughts.csproj", "{6711C698-9F4D-4271-B84F-02283E2BE30E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draughts", ".\Draughts\Draughts.csproj", "{6711C698-9F4D-4271-B84F-02283E2BE30E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
